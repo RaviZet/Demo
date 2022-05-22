@@ -1,0 +1,9 @@
+#navbar {
+    border: 2px solid black;
+    margin: auto;
+    display: flex;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    
+}
